@@ -1,7 +1,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Sunderingbeaver&theme=algolia&show_icons=true)](https://github.com/Sunderingbeaver)
 [![Top Langs](https://winkwink-language-distribution.vercel.app/api/top-langs/?username=Sunderingbeaver&custom_title=Language+Used&layout=compact&theme=github_dark&langs_count=8&hide=CSS,HTML,C)](https://github.com/Sunderingbeaver)
 
-<img height=200 width=200 src="https://winkwink-language-distribution.vercel.app/api/top-langs/?username=Sunderingbeaver&custom_title=Language+Used&layout=compact&theme=github_dark&langs_count=8&hide=CSS,HTML,C)](https://github.com/Sunderingbeaver" alt="Language Statistics" />
+<img height=500 width=500 src="https://github-readme-stats.vercel.app/api?username=Sunderingbeaver&theme=algolia&show_icons=true)](https://github.com/Sunderingbeaver)" alt="Language Statistics" />
+</a>
+<img height=500 width=500 src="https://winkwink-language-distribution.vercel.app/api/top-langs/?username=Sunderingbeaver&custom_title=Language+Used&layout=compact&theme=github_dark&langs_count=8&hide=CSS,HTML,C)](https://github.com/Sunderingbeaver)" alt="Language Statistics" />
 </a>
 
 <!--
